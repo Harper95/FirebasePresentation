@@ -1,0 +1,740 @@
+{
+	"breeds" : {
+		"Affenpinscher" : {
+			"Rank" : 136,
+			"Weight" : 10
+			},
+		"Afghan Hound" : {
+			"Rank" : 100,
+			"Weight" : 60
+			},
+		"Airedale Terrier" : {
+			"Rank" : 53,
+			"Weight" : 50
+			}, 
+		"Akita" : {
+			"Rank" : 46,
+			"Weight" : 100
+			},
+		"Alaskan Malamute" : {
+			"Rank" : 54,
+			"Weight" : 80
+			},
+		"American English Coonhound" : {
+			"Rank" : 166,
+			"Weight" : 50
+			},
+		"American Eskimo Dog" : {
+			"Rank" : 118,
+			"Weight" : 20
+			},
+		"American Foxhound" : {
+			"Rank" : 181,
+			"Weight" : 64
+			},
+		"American Staffordshire Terrier" : {
+			"Rank" : 77,
+			"Weight" : 70
+			},
+		"American Water Spaniel" : {
+			"Rank" : 157,
+			"Weight" : 35
+			},
+		"Anatolian Shepherd Dog" : {
+			"Rank" : 92,
+			"Weight" : 110
+			},
+		"Australian Cattle Dog" : {
+			"Rank" : 56,
+			"Weight" : 35
+			},
+		"Australian Shepherd" : {
+			"Rank" : 17,
+			"Weight" : 55
+			},
+		"Australian Terrier" : {
+			"Rank" : 125,
+			"Weight" : 14
+			},
+		"Basenji" : {
+			"Rank" : 87,
+			"Weight" : 22
+			},
+		"Basset Hound" : {
+			"Rank" : 39,
+			"Weight" : 50
+			},
+		"Beagle" : {
+			"Rank" : 5,
+			"Weight" : 22
+			},
+		"Bearded Collie" : {
+			"Rank" : 119,
+			"Weight" : 50
+			},
+		"Beauceron" : {
+			"Rank" : 142,
+			"Weight" : 80
+			},
+		"Bedlington Terrier" : {
+			"Rank" : 146,
+			"Weight" : 20
+			},
+		"Belgian Malinois" : {
+			"Rank" : 51,
+			"Weight" : 65
+			},
+		"Belgian Sheepdog" : {
+			"Rank" : 120,
+			"Weight" : 55
+			},
+		"Belgian Tervuren" : {
+			"Rank" : 98,
+			"Weight" : 55
+			},
+		"Bergamasco" : {
+			"Rank" : 174,
+			"Weight" : 71
+			},
+		"Bernese Mountain Dog" : {
+			"Rank" : 29,
+			"Weight" : 90
+			},
+		"Bichon Frise" : {
+			"Rank" : 44,
+			"Weight" : 8
+			},
+		"Black and Tan Coonhound" : {
+			"Rank" : 127,
+			"Weight" : 65
+			},
+		"Black Russian Terrier" : {
+			"Rank" : 116,
+			"Weight" : 110
+			},
+		"BloodHound" : {
+			"Rank" : 49,
+			"Weight" : 100
+			},
+		"Bluetick Coonhound" : {
+			"Rank" : 123,
+			"Weight" : 60
+			},
+		"Boerboel" : {
+			"Rank" : 126,
+			"Weight" : 175
+			},
+		"Border Collie" : {
+			"Rank" : 38,
+			"Weight" : 35
+			},
+		"Border Terrier" : {
+			"Rank" : 82,
+			"Weight" : 14
+			},
+		"Borzoi" : {
+			"Rank" : 89,
+			"Weight" : 75
+			},
+		"Boston Terrier" : {
+			"Rank" : 22,
+			"Weight" : 18
+			},
+		"Bouvier des Flandres" : {
+			"Rank" : 83,
+			"Weight" : 77
+			},
+		"Boxer" : {
+			"Rank" : 1,
+			"Weight" : 66
+			},
+		"Boykin Spaniel" : {
+			"Rank" : 107,
+			"Weight" : 30
+			},
+		"Briard" : {
+			"Rank" : 130,
+			"Weight" : 65
+			},
+		"Brittany" : {
+			"Rank" : 26,
+			"Weight" : 40
+			},
+		"Brussels Griffon" : {
+			"Rank" : 95,
+			"Weight" : 10
+			},
+		"Bull Terrier" : {
+			"Rank" : 55,
+			"Weight" : 60
+			},
+		"Bulldog" : {
+			"Rank" : 4,
+			"Weight" : 53
+			},
+		"Bullmastiff" : {
+			"Rank" : 43,
+			"Weight" : 110
+			},
+		"Cairn Terrier" : {
+			"Rank" : 70,
+			"Weight" : 15
+			},
+		"Canaan Dog" : {
+			"Rank" : 170,
+			"Weight" : 45
+			},
+		"Cane Corso" : {
+			"Rank" : 25,
+			"Weight" : 100
+			},
+		"Cardigan Welsh Corgi" : {
+			"Rank" : 76,
+			"Weight" : 30
+			},
+		"Cavalier King Charles Spaniel" : {
+			"Rank" : 18,
+			"Weight" : 15
+			},
+		"Cesky Terrier" : {
+			"Rank" : 179,
+			"Weight" : 18
+			},
+		"Chesapeake Bay Retriever" : {
+			"Rank" : 42,
+			"Weight" : 65
+			},
+		"Chihuahua" : {
+			"Rank" : 28,
+			"Weight" : 4
+			},
+		"Chinese Crested" : {
+			"Rank" : 75,
+			"Weight" : 8
+			},
+		"Chinese Sharp-Pei" : {
+			"Rank" : 59,
+			"Weight" : 55
+			},
+		"Chinook" : {
+			"Rank" : 177,
+			"Weight" : 75
+			},
+		"Chow Chow" : {
+			"Rank" : 73,
+			"Weight" : 60
+			},
+		"Cirneco dell'Etna" : {
+			"Rank" : 162,
+			"Weight" : 20
+			},
+		"Clumber Spaniel" : {
+			"Rank" : 134,
+			"Weight" : 70
+			},
+		"Cocker Spaniel" : {
+			"Rank" : 30,
+			"Weight" : 20
+			},
+		"Collie" : {
+			"Rank" : 36,
+			"Weight" : 45
+			},
+		"Coton de Tulear" : {
+			"Rank" : 85,
+			"Weight" : 10
+			},
+		"Curly-Coated Retriever" : {
+			"Rank" : 151,
+			"Weight" : 70
+			},
+		"Dachshund" : {
+			"Rank" : 13,
+			"Weight" : 20
+			},
+		"Dalmatian" : {
+			"Rank" : 62,
+			"Weight" : 50
+			},
+		"Dandie Dinmont Terrier" : {
+			"Rank" : 172,
+			"Weight" : 20
+			},
+		"Doberman Pinscher" : {
+			"Rank" : 14,
+			"Weight" : 75
+			},
+		"Dogue de Bordeaux" : {
+			"Rank" : 63,
+			"Weight" : 130
+			},
+		"English Cocker Spaniel" : {
+			"Rank" : 60,
+			"Weight" : 30
+			},
+		"English Foxhound" : {
+			"Rank" : 184,
+			"Weight" : 60
+			},
+		"English Setter" : {
+			"Rank" : 96,
+			"Weight" : 60
+			},
+		"English Springer Spaniel" : {
+			"Rank" : 27,
+			"Weight" : 45
+			},
+		"English Toy Spaniel" : {
+			"Rank" : 129,
+			"Weight" : 10
+			},
+		"Entlebucher Mountain Dog" : {
+			"Rank" : 159,
+			"Weight" : 50
+			},
+		"Field Spaniel" : {
+			"Rank" : 145,
+			"Weight" : 40
+			},
+		"Finnish Lapphund" : {
+			"Rank" : 169,
+			"Weight" : 50
+			},
+		"Finnish Spitz" : {
+			"Rank" : 178,
+			"Weight" : 25
+			},
+		"Flat-Coated Retriever" : {
+			"Rank" : 86,
+			"Weight" : 60
+			},
+		"French Bulldog" : {
+			"Rank" : 6,
+			"Weight" : 20
+			},
+		"German Pinscher" : {
+			"Rank" : 138,
+			"Weight" : 40
+			},
+		"German Shepherd Dog" : {
+			"Rank" : 2,
+			"Weight" : 70
+			},
+		"German Shorthaired Pointer" : {
+			"Rank" : 11,
+			"Weight" : 55
+			},
+		"German Wirehaired Pointer" : {
+			"Rank" : 68,
+			"Weight" : 65
+			},
+		"Giant Schnauzer" : {
+			"Rank" : 81,
+			"Weight" : 80
+			},
+		"Glen of Imaal Terrier" : {
+			"Rank" : 168,
+			"Weight" : 35
+			},
+		"Golden Retriever" : {
+			"Rank" : 3,
+			"Weight" : 65
+			},
+		"Gordon Setter" : {
+			"Rank" : 105,
+			"Weight" : 60
+			},
+		"Great Dane" : {
+			"Rank" : 15,
+			"Weight" : 120
+			},
+		"Great Pyrenees" : {
+			"Rank" : 67,
+			"Weight" : 110
+			},
+		"Greater Swiss Mountain Dog" : {
+			"Rank" : 78,
+			"Weight" : 130
+			},
+		"Greyhound" : {
+			"Rank" : 147,
+			"Weight" : 60
+			},
+		"Harrier" : {
+			"Rank" : 183,
+			"Weight" : 120
+			},
+		"Havanese" : {
+			"Rank" : 24,
+			"Weight" : 12
+			},
+		"Ibizan Hound" : {
+			"Rank" : 160,
+			"Weight" : 50
+			},
+		"Icelandic Sheepdog" : {
+			"Rank" : 140,
+			"Weight" : 50
+			},
+		"Irish Red and White Setter" : {
+			"Rank" : 148,
+			"Weight" : 60
+			},
+		"Irish Setter" : {
+			"Rank" : 72,
+			"Weight" : 60
+			},
+		"Irish Terrier" : {
+			"Rank" : 113,
+			"Weight" : 25
+			},
+		"Irish Water Spaniel" : {
+			"Rank" : 144,
+			"Weight" : 55
+			},
+		"Irish Wolfhound" : {
+			"Rank" : 69,
+			"Weight" : 150
+			},
+		"Italian Greyhound" : {
+			"Rank" : 71,
+			"Weight" : 14
+			},
+		"Japanese Chin" : {
+			"Rank" : 97,
+			"Weight" : 10
+			},
+		"Keeshond" : {
+			"Rank" : 84,
+			"Weight" : 35
+			},
+		"Kerry Blue Terrier" : {
+			"Rank" : 124,
+			"Weight" : 35
+			},
+		"Komondor" : {
+			"Rank" : 163,
+			"Weight" : 110
+			},
+		"Kuvasz" : {
+			"Rank" : 150,
+			"Weight" : 100
+			},
+		"Labrador Retriever" : {
+			"Rank" : 1,
+			"Weight" : 64
+			},
+		"Lakeland Terrier" : {
+			"Rank" : 141,
+			"Weight" : 16
+			},
+		"Leonberger" : {
+			"Rank" : 93,
+			"Weight" : 130
+			},
+		"Lhasa Apso" : {
+			"Rank" : 65,
+			"Weight" : 14
+			},
+		"Lowchen" : {
+			"Rank" : 161,
+			"Weight" : 12
+			},
+		"Maltese" : {
+			"Rank" : 31,
+			"Weight" : 7
+			},
+		"Manchester Terrier" : {
+			"Rank" : 137,
+			"Weight" : 18
+			},
+		"Mastiff" : {
+			"Rank" : 25,
+			"Weight" : 160
+			},
+		"Miniature Bull Terrier" : {
+			"Rank" : 121,
+			"Weight" : 30
+			},
+		"Miniature Pinscher" : {
+			"Rank" : 64,
+			"Weight" : 10
+			},
+		"Miniature Schnauzer" : {
+			"Rank" : 16,
+			"Weight" : 16
+			},
+		"Neapolitan Mastiff" : {
+			"Rank" : 106,
+			"Weight" : 130
+			},
+		"Newfoundland" : {
+			"Rank" : 37,
+			"Weight" : 130
+			},
+		"Norfolk Terrier" : {
+			"Rank" : 131,
+			"Weight" : 12
+			},
+		"Norwegian Buhund" : {
+			"Rank" : 165,
+			"Weight" : 35
+			},
+		"Norwegian Elkhound" : {
+			"Rank" : 88,
+			"Weight" : 50
+			},
+		"Norwegian Lundehund" : {
+			"Rank" : 182,
+			"Weight" : 15
+			},
+		"Norwich Terrier" : {
+			"Rank" : 103,
+			"Weight" : 12
+			},
+		"Nova Scotia Duck Tolling Retriever" : {
+			"Rank" : 99,
+			"Weight" : 45
+			},
+		"Old English Sheepdog" : {
+			"Rank" : 74,
+			"Weight" : " lbs"
+			},
+		"Otterhound" : {
+			"Rank" : 180,
+			"Weight" : 90
+			},
+		"Papillon" : {
+			"Rank" : 48,
+			"Weight" : 8
+			},
+		"Parson Russel Terrier" : {
+			"Rank" : 111,
+			"Weight" : 15
+			},
+		"Pekingese" : {
+			"Rank" : 80,
+			"Weight" : 12
+			},
+		"Pembroke Welsh Corgi" : {
+			"Rank" : 20,
+			"Weight" : 23
+			},
+		"Petit Basset Griffon Vendeen" : {
+			"Rank" : 143,
+			"Weight" : 40
+			},
+		"Pharaoh Hound" : {
+			"Rank" : 171,
+			"Weight" : 50
+			},
+		"Plott" : {
+			"Rank" : 149,
+			"Weight" : 50
+			},
+		"Pointer" : {
+			"Rank" : 114,
+			"Weight" : 50
+			},
+		"Polish Lowland Sheepdog" : {
+			"Rank" : 164,
+			"Weight" : 30
+			},
+		"Pomeranian" : {
+			"Rank" : 21,
+			"Weight" : 6
+			},
+		"Poodle" : {
+			"Rank" : 8,
+			"Weight" : 45
+			},
+		"Portuguese Podengo Pequeno" : {
+			"Rank" : 153,
+			"Weight" : 12
+			},
+		"Portuguese Water Dog" : {
+			"Rank" : 52,
+			"Weight" : 45
+			},
+		"Pug" : {
+			"Rank" : 33,
+			"Weight" : 18
+			},
+		"Puli" : {
+			"Rank" : 154,
+			"Weight" : 30
+			},
+		"Pyrenean Shepherd" : {
+			"Rank" : 176,
+			"Weight" : 50
+			},
+		"Rat Terrier" : {
+			"Rank" : 101,
+			"Weight" : 16
+			},
+		"Redbone Coonhound" : {
+			"Rank" : 139,
+			"Weight" : 60
+			},
+		"Rhodesian Ridgeback" : {
+			"Rank" : 40,
+			"Weight" : 80
+			},
+		"Rottweiler" : {
+			"Rank" : 9,
+			"Weight" : 110
+			},
+		"Russel Terrier" : {
+			"Rank" : 104,
+			"Weight" : 16
+			},
+		"Saluki" : {
+			"Rank" : 132,
+			"Weight" : 50
+			},
+		"Samoyed" : {
+			"Rank" : 61,
+			"Weight" : 50
+			},
+		"Schipperke" : {
+			"Rank" : 109,
+			"Weight" : 18
+			},
+		"Scottish Deerhound" : {
+			"Rank" : 152,
+			"Weight" : 90
+			},
+		"Scottish Terrier" : {
+			"Rank" : 58,
+			"Weight" : 20
+			},
+		"Sealyham Terrier" : {
+			"Rank" : 158,
+			"Weight" : 18
+			},
+		"Shetland Sheepdog" : {
+			"Rank" : 23,
+			"Weight" : 20
+			},
+		"Shiba Inu" : {
+			"Rank" : 45,
+			"Weight" : 20
+			},
+		"Shih Tzu" : {
+			"Rank" : 19,
+			"Weight" : 12
+			},
+		"Siberian Husky" : {
+			"Rank" : 12,
+			"Weight" : 44
+			},
+		"Silky Terrier" : {
+			"Rank" : 102,
+			"Weight" : 10
+			},
+		"Skye Terrier" : {
+			"Rank" : 175,
+			"Weight" : 30
+			},
+		"Smooth Fox Terrier" : {
+			"Rank" : 122,
+			"Weight" : 15
+			},
+		"Soft Coated Wheaten Terrier" : {
+			"Rank" : 47,
+			"Weight" : 35
+			},
+		"Spanish Water Dog" : {
+			"Rank" : 167,
+			"Weight" : 40
+			},
+		"Spinone Italiano" : {
+			"Rank" : 112,
+			"Weight" : 75
+			},
+		"St. Bernard" : {
+			"Rank" : 50,
+			"Weight" : 200
+			},
+		"Staffordshire Bull Terrier" : {
+			"Rank" : 79,
+			"Weight" : 30
+			},
+		"Standard Schnauzer" : {
+			"Rank" : 91,
+			"Weight" : 40
+			},
+		"Sussex Spaniel" : {
+			"Rank" : 173,
+			"Weight" : 40
+			},
+		"Swedish Vallhund" : {
+			"Rank" : 155,
+			"Weight" : 25
+			},
+		"Tibetan Mastiff" : {
+			"Rank" : 133,
+			"Weight" : 150
+			},
+		"Tibetan Spaniel" : {
+			"Rank" : 115,
+			"Weight" : 12
+			},
+		"Tibetan Terrier" : {
+			"Rank" : 90,
+			"Weight" : 25
+			},
+		"Toy Fox Terrier" : {
+			"Rank" : 110,
+			"Weight" : 4
+			},
+		"Treeing Walker Coonhound" : {
+			"Rank" : 117,
+			"Weight" : 60
+			},
+		"Vizsla" : {
+			"Rank" : 32,
+			"Weight" : 50
+			},
+		"Weimaraner" : {
+			"Rank" : 34,
+			"Weight" : 70
+			},
+		"Welsh Springer Spaniel" : {
+			"Rank" : 128,
+			"Weight" : 40
+			},
+		"Welsh Terrier" : {
+			"Rank" : 108,
+			"Weight" : 20
+			},
+		"West Highland White Terrier" : {
+			"Rank" : 41,
+			"Weight" : 15
+			},
+		"Whippet" : {
+			"Rank" : 57,
+			"Weight" : 20
+			},
+		"Wire Fox Terrier" : {
+			"Rank" : 94,
+			"Weight" : 18
+			},
+		"Wirehaired Pointing Griffon" : {
+			"Rank" : 66,
+			"Weight" : 55
+			},
+		"Wirehaired Vizsla" : {
+			"Rank" : 156,
+			"Weight" : 50
+			},
+		"Xoloitzcuintli" : {
+			"Rank" : 135,
+			"Weight" : 30
+			},
+		"Yorkshire Terrier" : {
+			"Rank" : 7,
+			"Weight" : 7
+		}
+	}
+}
